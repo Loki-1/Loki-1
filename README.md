@@ -1,4 +1,5 @@
 ![logo](https://github.com/Loki-1/Loki-1/blob/main/Blue%20And%20White%20Modern%20Minimal%20Business%20Channel%20Youtube%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Lokesh Naagam</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -24,7 +25,7 @@
 <code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/aws.png" width="40" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/linux.png" width="40" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/git.png" width="40" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/github.png.png" width="40" height="40"></code>
+<code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/github.png" width="40" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/maven.png" width="40" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/sonarqube_1.png" width="40" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/nexus.png" width="40" height="40"></code>
@@ -33,8 +34,8 @@
 <code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/tomcat.jpg" width="40" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/jira.png" width="40" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/prometheus.png" width="40" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/Graphana.png" width="40" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/Dynatrace.png" width="40" height="40"></code>
+<code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/Grafana.png" width="40" height="40"></code>
+<code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/dynatrace.png" width="40" height="40"></code>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loki-1&show_icons=true&locale=en&layout=compact" alt="loki-1" /></p>

@@ -21,7 +21,7 @@
 ### Lanuages and Tools:
 <code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/aws.png" width="40" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/linux.png" width="40" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/git.png" width="40" height="40"></code>
+<code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/git.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/github.png" width="40" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/maven.png" width="80" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/sonarqube_1.png" width="80" height="40"></code>
@@ -30,7 +30,7 @@
 <code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/docker.png" width="40" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/ku.jpg" width="40" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/tomcat.jpg" width="80" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/jira.png" width="40" height="40"></code>
+<code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/jira.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/prometheus.png" width="40" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/Grafana.png" width="40" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/dynatrace.png" width="40" height="40"></code>

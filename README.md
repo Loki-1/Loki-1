@@ -1,4 +1,4 @@
-![logo](https://github.com/Loki-1/Loki-1/blob/main/Blue%20And%20White%20Modern%20Minimal%20Business%20Channel%20Youtube%20Banner.png)
+![logo](https://github.com/Loki-1/Loki-1/blob/master/images/Banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Lokesh Naagam</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>

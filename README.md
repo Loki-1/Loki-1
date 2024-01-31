@@ -9,21 +9,15 @@
 🔗 Connect with me to discuss all things DevOps, automation, and how we can work together to drive innovation and excellence in software development. Let's build a future where development and operations work in harmony to deliver exceptional software experiences.</br>
 
 📫 Feel free to reach out and connect with me here on GitHub or find me on LinkedIn to start a conversation. Let's embark on this DevOps journey together! 🚀</br>
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loki-1&label=Profile%20views&color=0e75b6&style=flat" alt="loki-1" /> </p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 ## ⚡ Updates
 
 - 🔭 I’m currently working in [Tata Consultancy Services](https://www.tcs.com/)<br/>
 - 📫 How to reach me: Email: lokesh.naagam@gmail.com <br/>
-- ⚡ Fun fact: I love watching sitcoms and posting videos to my channel https://www.youtube.com/c/DevOpsMadeEasy. Tech & Shopping addict :P<br
-
-- 🔭 I’m currently working in [Tata Consultancy Services](https://www.tcs.com/)
-
+- ⚡ Fun fact: I love watching cartoon <br
 - 🌱 I’m currently learning **AWS DevOps Technology**
-
-- 📫 How to reach me **lokesh.naagam@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>

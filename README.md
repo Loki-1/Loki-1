@@ -44,8 +44,9 @@
 ![dynatrace](https://img.shields.io/badge/dynatrace-FF6C37?style=for-the-badge&logo=dynatrace&logoColor=1496FF)
 
 ## ⚡ My GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loki-1&show_icons=true&locale=en" alt="loki-1" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=loki-1&show_icons=true&locale=en&layout=compact" alt="loki-1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loki-1&show_icons=true&locale=en" alt="loki-1" /></p><p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=loki-1&show_icons=true&locale=en&layout=compact" alt="loki-1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loki-1&" alt="loki-1" /></p>
 
 ## ⚡ Top Repositories
 <a href="https://github.com/kunchalavikram1427/YouTube_Series">
@@ -58,4 +59,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loki-1&" alt="loki-1" /></p>
+

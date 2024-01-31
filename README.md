@@ -35,7 +35,7 @@
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-000?&style=for-the-badge&logo=Jira-Software&logoColor=0052CC)
-![dynatrace](https://img.shields.io/badge/dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=1496FF)
+![dynatrace](https://img.shields.io/badge/dynatrace-FF6C37?style=for-the-badge&logo=dynatrace&logoColor=1496FF)
 ### Lanuages and Tools:
 <code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/aws.png" width="40" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/linux.png" width="40" height="40"></code>

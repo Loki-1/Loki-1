@@ -16,11 +16,10 @@
 
 - 🔭 I’m currently working in [Tata Consultancy Services](https://www.tcs.com/)<br/>
 - 📫 How to reach me: Email: lokesh.naagam@gmail.com <br/>
-- ⚡ Fun fact: I love watching cartoon <br
+- ⚡ Fun fact: I love watching cartoon <br/>
 - 🌱 I’m currently learning **AWS DevOps Technology**
 
-
-<h3 align="left">Connect with me:</h3>
+## ⚡ Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/lokesh-naagam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh naagam" height="30" width="40" /></a>
 </p>
@@ -44,7 +43,18 @@
 ![Jira](https://img.shields.io/badge/-Jira-000?&style=for-the-badge&logo=Jira-Software&logoColor=0052CC)
 ![dynatrace](https://img.shields.io/badge/dynatrace-FF6C37?style=for-the-badge&logo=dynatrace&logoColor=1496FF)
 
+## ⚡ My GitHub Stats
+ | <a href="https://github.com/Loki-1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Loki-1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Lokesh's github stats" /></a> | <a href="https://github.com/Loki-1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loki-1&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
+## ⚡ Top Repositories
+<a href="https://github.com/kunchalavikram1427/YouTube_Series">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kunchalavikram1427&repo=YouTube_Series&theme=buefy" />
+</a>
+<a href="https://github.com/kunchalavikram1427/YouTube_Series">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kunchalavikram1427&repo=Docker_public&theme=buefy" />
+</a>
+<hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loki-1&show_icons=true&locale=en&layout=compact" alt="loki-1" /></p>
 

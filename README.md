@@ -1,7 +1,20 @@
 ![logo](https://github.com/Loki-1/Loki-1/blob/master/images/Banner.jpg)
 
-<h1 align="center">Hi 👋, I'm Lokesh Naagam</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h2 align="center">👋 Hello there, I'm Lokesh. 🚀 Welcome to my GitHub profile! 🛠️ </h2>
+
+🛢️ I'm a DevOps Engineer from India. As a DevOps engineer, I thrive at the intersection of development and operations, working tirelessly to enhance the efficiency, scalability, and reliability of software systems.</br>
+
+🔧 My toolkit includes an array of tools and technologies, including Docker, Kubernetes, Jenkins, Terraform, Ansible, and a host of scripting/programming languages. I believe in continuous integration, continuous delivery, and the power of infrastructure as code to streamline the software development lifecycle.</br>
+
+🔗 Connect with me to discuss all things DevOps, automation, and how we can work together to drive innovation and excellence in software development. Let's build a future where development and operations work in harmony to deliver exceptional software experiences.</br>
+
+📫 Feel free to reach out and connect with me here on GitHub or find me on LinkedIn to start a conversation. Let's embark on this DevOps journey together! 🚀</br>
+
+## ⚡ Updates
+
+- 🔭 I’m currently working in [Tata Consultancy Services](https://www.tcs.com/)<br/>
+- 📫 How to reach me: Email: lokesh.naagam@gmail.com <br/>
+- ⚡ Fun fact: I love watching sitcoms and posting videos to my channel https://www.youtube.com/c/DevOpsMadeEasy. Tech & Shopping addict :P<br/>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loki-1&label=Profile%20views&color=0e75b6&style=flat" alt="loki-1" /> </p>
 
@@ -11,7 +24,6 @@
 
 - 📫 How to reach me **lokesh.naagam@gmail.com**
 
-- ⚡ Fun fact **I am Funny😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

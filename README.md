@@ -49,8 +49,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loki-1&" alt="loki-1" /></p>
 
 ## ⚡ Top Repositories
-<a href="https://github.com/kunchalavikram1427/YouTube_Series">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kunchalavikram1427&repo=YouTube_Series&theme=buefy" />
+<a href="https://github.com/Loki-1/microservice_v1_service_registry">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Loki-1&repo=microservice_v1_service_registry&theme=buefy" />
 </a>
 <a href="https://github.com/kunchalavikram1427/YouTube_Series">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kunchalavikram1427&repo=Docker_public&theme=buefy" />

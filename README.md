@@ -47,7 +47,7 @@
 ![Jira](https://img.shields.io/badge/-Jira-000?&style=for-the-badge&logo=Jira-Software&logoColor=0052CC)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![RaspberryPi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
-![Nexus](https://img.shields.io/badge/Nexus-%23EB0443.svg?style=for-the-badge&logo=sonatype&logoColor=white)
+![Nexus](https://img.shields.io/badge/Nexus-%23EB0443.svg?style=for-the-badge&logo=sonatype&logoColor=black)
 
 ### Lanuages and Tools:
 <code><img src="https://raw.githubusercontent.com/Loki-1/Loki-1/master/images/aws.png" width="40" height="40"></code>

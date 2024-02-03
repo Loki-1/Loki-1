@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working in [Tata Consultancy Services](https://www.tcs.com/)<br/>
 - 📫 How to reach me: Email: lokesh.naagam@gmail.com <br/>
-- ⚡ Fun fact: I love watching cartoon <br/>
+- ⚡ Fun fact: I loves watching cartoon <br/>
 - 🌱 I’m currently learning **AWS DevOps Technology**
 
 ## ⚡ Connect with me:

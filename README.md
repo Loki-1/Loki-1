@@ -54,7 +54,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loki-1&" alt="loki-1" /></p>
 
 <h5 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=15&center=true&vCenter=true&width=500&height=70&duration=6000&lines=In+Top+Repositories;+you'll+find+sample+pipeline+script+,+dockerfile+and+kubernetes+manifest+file+for+that+sample+applications+;please+check+and+give+me+some+ideas+or+updates+through+pull+requests!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=15&center=true&vCenter=true&width=500&height=70&duration=9000&lines=In+Top+Repositories;+check+sample+pipeline+script+,+dockerfile+and+kubernetes+manifest+files;please+check+and+give+me+some+ideas+or+updates+through+pull+requests!" />
 </h5>
 
 ## ⚡ Top Repositories

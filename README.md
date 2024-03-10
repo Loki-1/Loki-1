@@ -52,8 +52,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loki-1&show_icons=true&locale=en" alt="loki-1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loki-1&" alt="loki-1" /></p>
+
 <h5 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lokesh+Naagam!;+welcome+to+my+github+profile!" />
+</h5>
+
 ## ⚡ Top Repositories
 <a href="https://github.com/Loki-1/microservice_v1_service_registry">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Loki-1&repo=microservice_v1_service_registry&theme=buefy" />

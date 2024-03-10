@@ -1,7 +1,7 @@
 ![logo](https://github.com/Loki-1/Loki-1/blob/master/images/Banner.jpg)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ajay+Kumar+Yegireddi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lokesh+Naagam!;+welcome+to+my+github+profile!" />
 </h1>
 <h2 align="center">👋 Hello there, I'm Lokesh. 🚀 Welcome to my GitHub profile! 🛠️ </h2>
 

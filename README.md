@@ -54,7 +54,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loki-1&" alt="loki-1" /></p>
 
 <h5 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lokesh+Naagam!;+welcome+to+my+github+profile!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=15&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lokesh+Naagam!;+welcome+to+my+github+profile!" />
 </h5>
 
 ## ⚡ Top Repositories

@@ -58,8 +58,8 @@
 </h5>
 
 ## ⚡ Top Repositories
-<a href="https://github.com/Loki-1/microservice_v1_service_registry">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Loki-1&repo=microservice_v1_service_registry&theme=buefy" />
+<a href="https://github.com/Loki-1/SpringBootApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Loki-1&repo=SpringBootApp&theme=buefy" />
 </a>
 <a href="https://github.com/Loki-1/Webapp-Resume-Pipeline">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=loki-1&repo=Webapp-Resume-Pipeline&theme=buefy" />
